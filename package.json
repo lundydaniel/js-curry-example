@@ -1,0 +1,23 @@
+{
+  "name": "js_curry_example",
+  "version": "1.0.0",
+  "description": "Currying in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "lite": "lite-server",
+    "start": "npm run lite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lundydaniel/js_curry_example.git"
+  },
+  "author": "Daniel Lundy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lundydaniel/js_curry_example/issues"
+  },
+  "homepage": "https://github.com/lundydaniel/js_curry_example#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
